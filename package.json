@@ -1,0 +1,13 @@
+{
+  "name": "local-agent-mesh",
+  "version": "1.0.0",
+  "description": "Asynchronous multi-agent LLM orchestration system running 100% locally.",
+  "main": "agent_system.js",
+  "type": "module",
+  "scripts": {
+    "start": "node agent_system.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
